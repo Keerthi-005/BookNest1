@@ -11,7 +11,7 @@ A full-stack book store application built with the MERN stack.
 | **Team Leader** | Keerthi Mekala |
 | **Team Member** | Adil Mohammed |
 | **Team Member** | Vasanth Metla |
-| **Team Member** | Rahamtulla Shaik |
+| **Team Member** | Rahimtulla Shaik |
 
 ## Features
 
